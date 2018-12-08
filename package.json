@@ -1,0 +1,33 @@
+{
+    "private": true,
+    "name": "warsawjs-workshop-27-tdd-boilerplate",
+    "description": "",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl/"
+    },
+    "scripts": {
+        "clear": "rm -rf dist/ coverage/ .nyc_output/",
+        "clear:all": "rm -rf node_modules/ && npm run clear",
+        "start": "node src/index.js",
+        "test": "mocha",
+        "test:watch": "mocha --watch",
+        "coverage": "nyc npm run test && nyc report --reporter=html",
+        "lint": "eslint ."
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "eslint": "^5.8.0",
+        "eslint-config-piecioshka": "^2.0.1",
+        "mocha": "^5.2.0",
+        "nyc": "^13.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:piecioshka/warsawjs-workshop-27-tdd-boilerplate.git"
+    }
+}
