@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "warsawjs-workshop-27-tdd-boilerplate",
+    "name": "warsawjs-workshop-27-prime-sum",
     "description": "",
     "version": "1.0.0",
     "license": "MIT",
@@ -28,6 +28,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:piecioshka/warsawjs-workshop-27-tdd-boilerplate.git"
+        "url": "git@github.com:piecioshka/warsawjs-workshop-27-prime-sum.git"
     }
 }
