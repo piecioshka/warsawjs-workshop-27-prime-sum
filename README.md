@@ -3,7 +3,7 @@
 [![travis](https://img.shields.io/travis/piecioshka/warsawjs-workshop-27-prime-sum.svg?maxAge=2592000)](https://travis-ci.org/piecioshka/warsawjs-workshop-27-prime-sum)
 [![dependencies](https://david-dm.org/piecioshka/warsawjs-workshop-27-prime-sum.svg)](https://github.com/piecioshka/warsawjs-workshop-27-prime-sum)
 
-Testowa aplikacja przygotowana na potrzeby `WarsawJS Workshop #27`.
+⛩️ WarsawJS Workshop #27 - TDD
 
 ## Features
 
