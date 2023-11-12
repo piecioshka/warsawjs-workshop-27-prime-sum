@@ -1,7 +1,5 @@
 # warsawjs-workshop-27-prime-sum
 
-[![travis-ci](https://api.travis-ci.com/piecioshka/warsawjs-workshop-27-prime-sum.svg?branch=master)](https://app.travis-ci.com/github/piecioshka/warsawjs-workshop-27-prime-sum)
-
 ⛩️ WarsawJS Workshop #27 - TDD
 
 ## Features
@@ -10,7 +8,6 @@
     + `mocha` - test runner
     + `chai` - assertion library
 * :white_check_mark: Skonfigurowanie polecenie uruchamiające testy
-* :white_check_mark: Integracja z Travis
 
 ## Unit tests
 
